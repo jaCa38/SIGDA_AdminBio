@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>731e2120-5e53-42f4-a2d9-988cfdd02288</UserSecretsId>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SIGDA.CA.Libreria\SIGDA.CA.Libreria.csproj" />
+    <ProjectReference Include="..\SIGDA.Catalogos\SIGDA.Catalogos.csproj" />
+    <ProjectReference Include="..\SIGDA.Documentos\SIGDA.Documentos.csproj" />
+    <ProjectReference Include="..\SIGDA.FOTOCOPIADO\SIGDA.FOTOCOPIADO.Libreria.csproj" />
+    <ProjectReference Include="..\SIGDA.RRHN.Libreria\SIGDA.SRHN.Libreria.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "SIGDA_BackEnd.Docker.Linux": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50640;http://localhost:50642"
+    }
+  }
+}

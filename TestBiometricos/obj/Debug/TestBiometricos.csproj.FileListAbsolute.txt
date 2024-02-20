@@ -1,0 +1,109 @@
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\TestBiometricos.exe.config
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\TestBiometricos.exe
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\TestBiometricos.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\FaceId.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\Newtonsoft.Json.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\SIGDA.CA.Biometricos.Libreria.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Buffers.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Memory.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Numerics.Vectors.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Text.Encodings.Web.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Text.Json.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.ValueTuple.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\Dapper.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\MySql.Data.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\Google.Protobuf.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\ZstdSharp.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\BouncyCastle.Crypto.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Compression.LZ4.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.IO.Pipelines.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Hash.xxHash.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\SIGDA.CA.Biometricos.Libreria.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\Newtonsoft.Json.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Buffers.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Memory.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Numerics.Vectors.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Text.Encodings.Web.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Text.Json.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.ValueTuple.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\Dapper.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\MySql.Data.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\Google.Protobuf.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\Google.Protobuf.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\BouncyCastle.Crypto.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Compression.LZ4.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.IO.Pipelines.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Hash.xxHash.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.csproj.ResolveComReference.cache
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.exe
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\TestBiometricos.exe.manifest
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\bin\Debug\TestBiometricos.application
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.exe.manifest
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.application
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\TestBiometricos.exe.config
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\TestBiometricos.exe.manifest
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\TestBiometricos.application
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\TestBiometricos.exe
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\TestBiometricos.pdb
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\FaceId.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\Newtonsoft.Json.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\SIGDA.CA.Biometricos.Libreria.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Buffers.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Memory.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Numerics.Vectors.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Text.Encodings.Web.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Text.Json.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.ValueTuple.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\Dapper.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\MySql.Data.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\Google.Protobuf.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\ZstdSharp.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\BouncyCastle.Crypto.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Compression.LZ4.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.IO.Pipelines.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Hash.xxHash.dll
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\SIGDA.CA.Biometricos.Libreria.pdb
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\Newtonsoft.Json.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Buffers.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Memory.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Numerics.Vectors.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Text.Encodings.Web.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Text.Json.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.ValueTuple.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\Dapper.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\MySql.Data.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\Google.Protobuf.pdb
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\Google.Protobuf.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\BouncyCastle.Crypto.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Compression.LZ4.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\System.IO.Pipelines.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\K4os.Hash.xxHash.xml
+C:\repos\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.csproj.AssemblyReference.cache
+C:\repos\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.csproj.ResolveComReference.cache
+C:\repos\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.csproj.CoreCompileInputs.cache
+C:\repos\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.exe.manifest
+C:\repos\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.application
+C:\repos\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.csproj.CopyComplete
+C:\repos\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.exe
+C:\repos\SIGDA_BackEnd\TestBiometricos\obj\Debug\TestBiometricos.pdb
+C:\repos\SIGDA_BackEnd\TestBiometricos\bin\Debug\SIGDA.CA.Biometricos.Libreria.dll.config

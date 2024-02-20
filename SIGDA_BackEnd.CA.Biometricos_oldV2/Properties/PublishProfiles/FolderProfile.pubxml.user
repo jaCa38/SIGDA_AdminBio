@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>\\192.168.1.61\biometricos</_PublishTargetUrl>
+    <History>True|2024-01-29T21:15:03.2346071Z;True|2024-01-29T15:12:10.6743709-06:00;True|2024-01-29T14:26:07.4632103-06:00;True|2024-01-29T13:17:00.5999798-06:00;True|2024-01-25T12:40:07.8089234-06:00;False|2024-01-18T12:05:39.1983173-06:00;True|2024-01-17T15:35:17.2269964-06:00;True|2024-01-17T10:55:44.4023927-06:00;False|2024-01-14T21:16:53.9794126-06:00;True|2024-01-10T10:35:30.2918412-06:00;True|2024-01-10T10:09:47.6389743-06:00;True|2024-01-04T20:18:26.5860541-06:00;True|2024-01-03T10:19:01.0052768-06:00;True|2024-01-03T10:12:37.9637720-06:00;True|2023-12-30T21:52:41.2041200-06:00;True|2023-12-30T21:25:49.8151895-06:00;False|2023-12-30T21:24:17.2829243-06:00;True|2023-12-30T12:25:16.8782075-06:00;True|2023-12-13T14:36:23.5434912-06:00;False|2023-12-03T23:01:33.6126222-06:00;True|2023-11-30T10:14:05.5104949-06:00;True|2023-11-30T10:12:39.9143450-06:00;True|2023-11-29T15:25:53.6570622-06:00;True|2023-11-29T14:47:06.1291392-06:00;True|2023-11-24T14:16:43.0271581-06:00;True|2023-11-24T13:35:09.0668849-06:00;True|2023-11-24T13:17:59.0388635-06:00;True|2023-11-15T13:35:45.4633616-06:00;False|2023-11-15T13:33:34.6695108-06:00;False|2023-11-15T13:31:59.3835346-06:00;True|2023-11-12T18:27:58.6013878-06:00;True|2023-11-11T22:51:10.1437658-06:00;True|2023-11-09T14:13:29.8547405-06:00;True|2023-11-09T13:20:04.5251124-06:00;True|2023-11-08T14:24:26.9044773-06:00;True|2023-11-08T14:10:32.5845494-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>10/19/2021 05:53:32</publishTime>
+    </File>
+    <File Include="bin/Dapper.dll">
+      <publishTime>08/17/2023 13:16:50</publishTime>
+    </File>
+    <File Include="bin/es/System.Net.Http.Formatting.resources.dll">
+      <publishTime>10/20/2023 14:35:08</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.resources.dll">
+      <publishTime>10/20/2023 14:35:08</publishTime>
+    </File>
+    <File Include="bin/es/System.Web.Http.WebHost.resources.dll">
+      <publishTime>10/20/2023 14:35:08</publishTime>
+    </File>
+    <File Include="bin/FaceId.dll">
+      <publishTime>06/29/2023 12:23:02</publishTime>
+    </File>
+    <File Include="bin/Google.Protobuf.dll">
+      <publishTime>06/09/2023 09:16:58</publishTime>
+    </File>
+    <File Include="bin/Google.Protobuf.pdb">
+      <publishTime>06/09/2023 15:44:32</publishTime>
+    </File>
+    <File Include="bin/K4os.Compression.LZ4.dll">
+      <publishTime>08/15/2023 14:03:28</publishTime>
+    </File>
+    <File Include="bin/K4os.Compression.LZ4.Streams.dll">
+      <publishTime>08/15/2023 14:03:30</publishTime>
+    </File>
+    <File Include="bin/K4os.Hash.xxHash.dll">
+      <publishTime>08/11/2022 12:08:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/03/2023 16:41:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>11/04/2022 13:09:46</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>11/07/2023 21:30:50</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.Bson.dll">
+      <publishTime>11/27/2018 17:10:18</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.Bson.pdb">
+      <publishTime>11/27/2018 17:07:54</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2023 01:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>02/14/2022 23:38:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>02/14/2022 23:38:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>02/14/2022 23:21:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>02/14/2022 23:38:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>02/14/2022 23:38:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>02/14/2022 23:21:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>02/14/2022 23:33:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>02/14/2022 23:38:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>02/14/2022 23:33:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>02/14/2022 23:33:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>02/14/2022 23:34:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>02/14/2022 23:21:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>04/10/2021 18:47:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>04/10/2021 18:49:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.CurrentVersions.targets">
+      <publishTime>02/14/2022 23:33:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>02/14/2022 23:21:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>02/14/2022 23:21:10</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Buffers.dll">
+      <publishTime>02/19/2020 04:05:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>10/19/2020 12:37:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Memory.dll">
+      <publishTime>02/19/2020 04:05:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 07:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>10/19/2020 12:45:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/19/2020 12:46:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/29/2018 09:39:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 04:05:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>02/14/2022 23:34:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>02/14/2022 23:34:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>02/14/2022 23:21:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>02/14/2022 23:38:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>02/14/2022 23:38:42</publishTime>
+    </File>
+    <File Include="bin/SIGDA.CA.Biometricos.Libreria.dll">
+      <publishTime>01/29/2024 15:12:04</publishTime>
+    </File>
+    <File Include="bin/SIGDA.CA.Biometricos.Libreria.dll.config">
+      <publishTime>12/07/2023 11:25:29</publishTime>
+    </File>
+    <File Include="bin/SIGDA.CA.Biometricos.Libreria.pdb">
+      <publishTime>01/29/2024 15:12:04</publishTime>
+    </File>
+    <File Include="bin/SIGDA_BackEnd.CA.Biometricos.dll">
+      <publishTime>01/29/2024 15:14:58</publishTime>
+    </File>
+    <File Include="bin/SIGDA_BackEnd.CA.Biometricos.pdb">
+      <publishTime>01/29/2024 15:14:58</publishTime>
+    </File>
+    <File Include="bin/Swashbuckle.Core.dll">
+      <publishTime>07/07/2017 19:30:56</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 04:05:18</publishTime>
+    </File>
+    <File Include="bin/System.IO.Pipelines.dll">
+      <publishTime>10/18/2022 10:27:40</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>07/05/2022 21:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>10/20/2023 14:33:52</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 07:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/22/2021 17:40:18</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 04:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>10/20/2023 14:33:50</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>10/20/2023 14:34:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>10/20/2023 14:34:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>10/20/2023 14:34:08</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>05/10/2016 07:11:52</publishTime>
+    </File>
+    <File Include="bin/ZstdSharp.dll">
+      <publishTime>05/18/2023 13:30:36</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/25/2023 15:11:36</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/17/2024 10:55:37</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

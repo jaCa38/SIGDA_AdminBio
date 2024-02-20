@@ -1,0 +1,13 @@
+C:\repos\SIGDA_BackEnd\TestFaceId\bin\Debug\TestFaceId.exe.config
+C:\repos\SIGDA_BackEnd\TestFaceId\bin\Debug\TestFaceId.exe
+C:\repos\SIGDA_BackEnd\TestFaceId\bin\Debug\TestFaceId.pdb
+C:\repos\SIGDA_BackEnd\TestFaceId\bin\Debug\Dapper.dll
+C:\repos\SIGDA_BackEnd\TestFaceId\bin\Debug\FaceId.dll
+C:\repos\SIGDA_BackEnd\TestFaceId\bin\Debug\Newtonsoft.Json.dll
+C:\repos\SIGDA_BackEnd\TestFaceId\bin\Debug\Dapper.xml
+C:\repos\SIGDA_BackEnd\TestFaceId\bin\Debug\Newtonsoft.Json.xml
+C:\repos\SIGDA_BackEnd\TestFaceId\obj\Debug\TestFaceId.csproj.AssemblyReference.cache
+C:\repos\SIGDA_BackEnd\TestFaceId\obj\Debug\TestFaceId.csproj.CoreCompileInputs.cache
+C:\repos\SIGDA_BackEnd\TestFaceId\obj\Debug\TestFaceId.csproj.CopyComplete
+C:\repos\SIGDA_BackEnd\TestFaceId\obj\Debug\TestFaceId.exe
+C:\repos\SIGDA_BackEnd\TestFaceId\obj\Debug\TestFaceId.pdb

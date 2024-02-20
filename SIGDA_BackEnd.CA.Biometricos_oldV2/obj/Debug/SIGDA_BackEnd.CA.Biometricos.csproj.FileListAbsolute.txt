@@ -1,0 +1,542 @@
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.AssemblyReference.cache
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.CoreCompileInputs.cache
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.dll.config
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.pdb
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.exe
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.exe.config
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.rsp
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.exe
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.exe.config
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.rsp
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Buffers.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Collections.Immutable.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Memory.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Numerics.Vectors.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Reflection.Metadata.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.exe
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.exe.config
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.rsp
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\VBCSCompiler.exe
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\VBCSCompiler.exe.config
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Web.Infrastructure.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA.CA.Biometricos.Libreria.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Swashbuckle.Core.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Buffers.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Memory.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Net.Http.Formatting.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Numerics.Vectors.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Threading.Tasks.Extensions.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Cors.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.Cors.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.WebHost.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\WebActivatorEx.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\FaceId.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\MySql.Data.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Dapper.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\ZstdSharp.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.Streams.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\BouncyCastle.Crypto.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.IO.Pipelines.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Hash.xxHash.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA.CA.Biometricos.Libreria.pdb
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.pdb
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Buffers.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Memory.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Net.Http.Formatting.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Numerics.Vectors.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Threading.Tasks.Extensions.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.Cors.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.WebHost.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\MySql.Data.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Dapper.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.pdb
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.Streams.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\BouncyCastle.Crypto.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.IO.Pipelines.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Hash.xxHash.xml
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Net.Http.Formatting.resources.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Web.Http.resources.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Web.Http.WebHost.resources.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.CopyComplete
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.dll
+C:\SIGDA\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.pdb
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.AssemblyReference.cache
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.CoreCompileInputs.cache
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.pdb
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.dll.config
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.pdb
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.exe
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.exe.config
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.rsp
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.exe
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.exe.config
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.rsp
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Buffers.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Collections.Immutable.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Memory.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Numerics.Vectors.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Reflection.Metadata.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.exe
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.exe.config
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.rsp
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\VBCSCompiler.exe
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\VBCSCompiler.exe.config
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Web.Infrastructure.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA.CA.Biometricos.Libreria.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Swashbuckle.Core.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Buffers.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Memory.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Net.Http.Formatting.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Numerics.Vectors.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Threading.Tasks.Extensions.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Cors.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.Cors.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.WebHost.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\WebActivatorEx.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\MySql.Data.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\FaceId.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Dapper.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\ZstdSharp.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.Streams.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\BouncyCastle.Crypto.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.IO.Pipelines.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Hash.xxHash.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA.CA.Biometricos.Libreria.pdb
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.pdb
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Buffers.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Memory.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Net.Http.Formatting.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Numerics.Vectors.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Threading.Tasks.Extensions.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.Cors.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.WebHost.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\MySql.Data.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Dapper.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.pdb
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.Streams.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\BouncyCastle.Crypto.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.IO.Pipelines.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Hash.xxHash.xml
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Net.Http.Formatting.resources.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Web.Http.resources.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Web.Http.WebHost.resources.dll
+C:\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.dll.config
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.exe
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.exe.config
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.rsp
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.exe
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.exe.config
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.rsp
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Buffers.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Collections.Immutable.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Memory.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Numerics.Vectors.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Reflection.Metadata.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.exe
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.exe.config
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.rsp
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\VBCSCompiler.exe
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\VBCSCompiler.exe.config
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Web.Infrastructure.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA.CA.Biometricos.Libreria.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Swashbuckle.Core.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Buffers.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Memory.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Net.Http.Formatting.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Numerics.Vectors.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Threading.Tasks.Extensions.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Cors.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.Cors.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.WebHost.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\WebActivatorEx.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\MySql.Data.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\FaceId.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Dapper.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\ZstdSharp.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.Streams.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\BouncyCastle.Crypto.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.IO.Pipelines.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Hash.xxHash.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA.CA.Biometricos.Libreria.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Buffers.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Memory.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Net.Http.Formatting.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Numerics.Vectors.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Threading.Tasks.Extensions.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.Cors.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.WebHost.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\MySql.Data.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Dapper.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.Streams.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\BouncyCastle.Crypto.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.IO.Pipelines.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Hash.xxHash.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Net.Http.Formatting.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Web.Http.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Web.Http.WebHost.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.pdb
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.dll.config
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.pdb
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.exe
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.exe.config
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.rsp
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.exe
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.exe.config
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.rsp
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Buffers.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Collections.Immutable.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Memory.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Numerics.Vectors.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Reflection.Metadata.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.exe
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.exe.config
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.rsp
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\VBCSCompiler.exe
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\VBCSCompiler.exe.config
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Web.Infrastructure.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA.CA.Biometricos.Libreria.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Swashbuckle.Core.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Buffers.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Memory.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Net.Http.Formatting.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Numerics.Vectors.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Threading.Tasks.Extensions.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Cors.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.Cors.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.WebHost.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\WebActivatorEx.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\MySql.Data.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\FaceId.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Dapper.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\ZstdSharp.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.Streams.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\BouncyCastle.Crypto.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.IO.Pipelines.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Hash.xxHash.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA.CA.Biometricos.Libreria.pdb
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.pdb
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Buffers.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Memory.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Net.Http.Formatting.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Numerics.Vectors.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Threading.Tasks.Extensions.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.Cors.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.WebHost.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\MySql.Data.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Dapper.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.pdb
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.Streams.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\BouncyCastle.Crypto.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\System.IO.Pipelines.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Hash.xxHash.xml
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Net.Http.Formatting.resources.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Web.Http.resources.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Web.Http.WebHost.resources.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.AssemblyReference.cache
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.CoreCompileInputs.cache
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.CopyComplete
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.dll
+C:\RespaladoSigda\SIGDA_BackEnd1\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.pdb
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.dll.config
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA_BackEnd.CA.Biometricos.pdb
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.exe
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.exe.config
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csc.rsp
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.exe
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.exe.config
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\csi.rsp
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.Managed.Core.targets
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Buffers.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Collections.Immutable.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Memory.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Numerics.Vectors.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Reflection.Metadata.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.exe
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.exe.config
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\vbc.rsp
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\VBCSCompiler.exe
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\roslyn\VBCSCompiler.exe.config
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Authorization.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Http.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Routing.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.StaticFiles.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.DependencyModel.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Localization.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.ObjectPool.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Options.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Primitives.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.WebEncoders.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Net.Http.Headers.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.OpenApi.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Web.Infrastructure.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA.CA.Biometricos.Libreria.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Swashbuckle.Core.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Buffers.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.ComponentModel.Annotations.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Diagnostics.DiagnosticSource.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Memory.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Net.Http.Formatting.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Numerics.Vectors.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Text.Encodings.Web.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Text.Json.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Threading.Tasks.Extensions.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.ValueTuple.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Cors.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.Cors.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.WebHost.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\WebActivatorEx.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Dapper.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\MySql.Data.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\FaceId.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\ZstdSharp.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.Streams.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\BouncyCastle.Crypto.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.IO.Pipelines.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Hash.xxHash.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\SIGDA.CA.Biometricos.Libreria.pdb
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Authorization.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Http.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Routing.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.StaticFiles.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.FileProviders.Embedded.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Localization.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.ObjectPool.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Options.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.Primitives.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Extensions.WebEncoders.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.Net.Http.Headers.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.OpenApi.pdb
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Microsoft.OpenApi.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.pdb
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Newtonsoft.Json.Bson.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Buffers.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Diagnostics.DiagnosticSource.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Memory.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Net.Http.Formatting.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Numerics.Vectors.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Text.Encodings.Web.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Text.Json.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Threading.Tasks.Extensions.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.ValueTuple.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.Cors.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.Web.Http.WebHost.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Dapper.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\MySql.Data.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.pdb
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\Google.Protobuf.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.Streams.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\BouncyCastle.Crypto.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Compression.LZ4.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\System.IO.Pipelines.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\K4os.Hash.xxHash.xml
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Net.Http.Formatting.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Web.Http.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\bin\es\System.Web.Http.WebHost.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.AssemblyReference.cache
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.CoreCompileInputs.cache
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.csproj.CopyComplete
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.dll
+C:\repos\SIGDA_BackEnd\SIGDA_BackEnd.CA.Biometricos\obj\Debug\SIGDA_BackEnd.CA.Biometricos.pdb

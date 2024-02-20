@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  sigda_backend.docker.linux:
+    image: ${DOCKER_REGISTRY-}sigdabackenddockerlinux
+    build:
+      context: .
+      dockerfile: SIGDA_BackEnd.Docker.Linux/Dockerfile
+    ports:
+    - "4015:443"

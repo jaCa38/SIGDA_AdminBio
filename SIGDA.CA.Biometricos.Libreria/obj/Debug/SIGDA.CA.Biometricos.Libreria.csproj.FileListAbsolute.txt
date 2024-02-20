@@ -1,0 +1,203 @@
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\SIGDA.CA.Biometricos.Libreria.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\SIGDA.CA.Biometricos.Libreria.pdb
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Azure.Core.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Azure.Identity.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\BouncyCastle.Crypto.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Dapper.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\FaceId.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Google.Protobuf.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Compression.LZ4.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Hash.xxHash.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Identity.Client.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\MySql.Data.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Buffers.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IO.Pipelines.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Memory.Data.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Memory.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Numerics.Vectors.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.AccessControl.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Permissions.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Principal.Windows.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Text.Encodings.Web.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Text.Json.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.ValueTuple.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\ZstdSharp.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Azure.Core.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Azure.Identity.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\BouncyCastle.Crypto.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Dapper.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Google.Protobuf.pdb
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Google.Protobuf.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Compression.LZ4.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Hash.xxHash.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Identity.Client.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\MySql.Data.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Buffers.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IO.Pipelines.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Memory.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Memory.Data.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Numerics.Vectors.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.AccessControl.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Permissions.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Principal.Windows.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Text.Encodings.Web.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Text.Json.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.ValueTuple.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.csproj.AssemblyReference.cache
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.csproj.CoreCompileInputs.cache
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.csproj.CopyComplete
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.pdb
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\SIGDA.CA.Biometricos.Libreria.dll.config
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.csproj.ResolveComReference.cache
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Newtonsoft.Json.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Newtonsoft.Json.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\SIGDA.CA.Biometricos.Libreria.dll.config
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\SIGDA.CA.Biometricos.Libreria.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\SIGDA.CA.Biometricos.Libreria.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Azure.Core.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Azure.Identity.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\BouncyCastle.Crypto.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Dapper.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Google.Protobuf.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Compression.LZ4.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Hash.xxHash.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Data.SqlClient.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Identity.Client.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Logging.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\MySql.Data.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Newtonsoft.Json.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Buffers.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IO.FileSystem.AccessControl.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IO.Pipelines.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Memory.Data.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Memory.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Numerics.Vectors.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.AccessControl.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Permissions.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Principal.Windows.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Text.Encodings.Web.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Text.Json.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.ValueTuple.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\ZstdSharp.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Azure.Core.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Azure.Identity.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\BouncyCastle.Crypto.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Dapper.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Google.Protobuf.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Google.Protobuf.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Compression.LZ4.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\K4os.Hash.xxHash.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Data.SqlClient.pdb
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Data.SqlClient.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Identity.Client.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Logging.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\MySql.Data.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Newtonsoft.Json.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Buffers.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IO.FileSystem.AccessControl.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.IO.Pipelines.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Memory.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Memory.Data.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Numerics.Vectors.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.AccessControl.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Permissions.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Security.Principal.Windows.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Text.Encodings.Web.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Text.Json.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.ValueTuple.xml
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.csproj.ResolveComReference.cache
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.dll
+G:\Otros ordenadores\Mi PC\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\obj\Debug\SIGDA.CA.Biometricos.Libreria.pdb
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Net.Http.Formatting.dll
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\System.Net.Http.Formatting.xml
+C:\repos\SIGDA_BackEnd\SIGDA.CA.Biometricos.Libreria\bin\Debug\es\System.Net.Http.Formatting.resources.dll

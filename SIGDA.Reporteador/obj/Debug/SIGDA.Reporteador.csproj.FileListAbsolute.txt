@@ -1,0 +1,12 @@
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\bin\Debug\SIGDA.Reporteador.dll
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\bin\Debug\SIGDA.Reporteador.pdb
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\bin\Debug\Dapper.dll
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\bin\Debug\itextsharp.dll
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\bin\Debug\Dapper.xml
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\obj\Debug\SIGDA.Reporteador.csproj.AssemblyReference.cache
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\obj\Debug\SIGDA.Reporteador.Properties.Resources.resources
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\obj\Debug\SIGDA.Reporteador.csproj.GenerateResource.cache
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\obj\Debug\SIGDA.Reporteador.csproj.CoreCompileInputs.cache
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\obj\Debug\SIGDA.Reporteador.csproj.CopyComplete
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\obj\Debug\SIGDA.Reporteador.dll
+G:\inetpub\wwwrootPlataforma\DA\SIGDA_BackEnd\SIGDA.Reporteador\obj\Debug\SIGDA.Reporteador.pdb

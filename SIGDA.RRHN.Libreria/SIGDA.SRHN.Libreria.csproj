@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0-preview1.23109.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Catalogos\CentrosTrabajo\Services\" />
+    <Folder Include="Catalogos\Genericos\Interfaces\" />
+    <Folder Include="Catalogos\Genericos\Models\" />
+    <Folder Include="Catalogos\Genericos\Services\Interfaces\" />
+    <Folder Include="Historicos\Interfaces\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SIGDA.APIProgress.Models\SIGDA.APIProgress.Models.csproj" />
+    <ProjectReference Include="..\SIGDA.Catalogos\SIGDA.Catalogos.csproj" />
+    <ProjectReference Include="..\SIGDA.Conexion\SIGDA.Conexion.csproj" />
+  </ItemGroup>
+
+</Project>
