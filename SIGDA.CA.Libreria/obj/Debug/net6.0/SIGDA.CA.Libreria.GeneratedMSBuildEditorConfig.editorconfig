@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SIGDA.CA.Libreria
-build_property.ProjectDir = C:\repos\SIGDA_BackEnd\SIGDA.CA.Libreria\
+build_property.ProjectDir = C:\repoSIGDA\SIGDA_AdminBio\SIGDA.CA.Libreria\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

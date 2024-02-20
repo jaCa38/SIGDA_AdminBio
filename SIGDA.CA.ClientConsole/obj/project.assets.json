@@ -2974,24 +2974,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\javier.cabrera\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\usuariopj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj",
+      "projectUniqueName": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj",
       "projectName": "SIGDA.CA.ClientConsole",
-      "projectPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj",
-      "packagesPath": "C:\\Users\\javier.cabrera\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.ClientConsole\\obj\\",
+      "projectPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj",
+      "packagesPath": "C:\\Users\\usuariopj\\.nuget\\packages\\",
+      "outputPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.ClientConsole\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\javier.cabrera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\usuariopj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2999,15 +2994,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj": {
-              "projectPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj"
+            "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj": {
+              "projectPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj"
             }
           }
         }

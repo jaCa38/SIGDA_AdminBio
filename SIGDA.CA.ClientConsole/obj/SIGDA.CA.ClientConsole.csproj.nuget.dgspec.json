@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj": {}
+    "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj": {}
   },
   "projects": {
-    "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj": {
+    "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj",
+        "projectUniqueName": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj",
         "projectName": "SIGDA.CA.ClientConsole",
-        "projectPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj",
-        "packagesPath": "C:\\Users\\javier.cabrera\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.ClientConsole\\obj\\",
+        "projectPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.ClientConsole\\SIGDA.CA.ClientConsole.csproj",
+        "packagesPath": "C:\\Users\\usuariopj\\.nuget\\packages\\",
+        "outputPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.ClientConsole\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\javier.cabrera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\usuariopj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj": {
-                "projectPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj"
+              "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj": {
+                "projectPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj"
               }
             }
           }
@@ -68,21 +63,17 @@
         }
       }
     },
-    "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj": {
+    "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj",
+        "projectUniqueName": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj",
         "projectName": "SIGDA.CA.Libreria",
-        "projectPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj",
-        "packagesPath": "C:\\Users\\javier.cabrera\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.CA.Libreria\\obj\\",
+        "projectPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.Libreria\\SIGDA.CA.Libreria.csproj",
+        "packagesPath": "C:\\Users\\usuariopj\\.nuget\\packages\\",
+        "outputPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.CA.Libreria\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\javier.cabrera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\usuariopj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,18 +81,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repos\\SIGDA_BackEnd\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj": {
-                "projectPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj"
+              "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj": {
+                "projectPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj"
               },
-              "C:\\repos\\SIGDA_BackEnd\\SIGDA.Conexion\\SIGDA.Conexion.csproj": {
-                "projectPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.Conexion\\SIGDA.Conexion.csproj"
+              "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Conexion\\SIGDA.Conexion.csproj": {
+                "projectPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Conexion\\SIGDA.Conexion.csproj"
               }
             }
           }
@@ -149,21 +139,17 @@
         }
       }
     },
-    "C:\\repos\\SIGDA_BackEnd\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj": {
+    "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\SIGDA_BackEnd\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj",
+        "projectUniqueName": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj",
         "projectName": "SIGDA.Catalogos",
-        "projectPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj",
-        "packagesPath": "C:\\Users\\javier.cabrera\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.Catalogos\\obj\\",
+        "projectPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj",
+        "packagesPath": "C:\\Users\\usuariopj\\.nuget\\packages\\",
+        "outputPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Catalogos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\javier.cabrera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\usuariopj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -171,7 +157,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -209,21 +194,17 @@
         }
       }
     },
-    "C:\\repos\\SIGDA_BackEnd\\SIGDA.Conexion\\SIGDA.Conexion.csproj": {
+    "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Conexion\\SIGDA.Conexion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\SIGDA_BackEnd\\SIGDA.Conexion\\SIGDA.Conexion.csproj",
+        "projectUniqueName": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Conexion\\SIGDA.Conexion.csproj",
         "projectName": "SIGDA.Conexion",
-        "projectPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.Conexion\\SIGDA.Conexion.csproj",
-        "packagesPath": "C:\\Users\\javier.cabrera\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.Conexion\\obj\\",
+        "projectPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Conexion\\SIGDA.Conexion.csproj",
+        "packagesPath": "C:\\Users\\usuariopj\\.nuget\\packages\\",
+        "outputPath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Conexion\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\javier.cabrera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\usuariopj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -231,7 +212,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

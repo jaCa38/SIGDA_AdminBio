@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A9FeZCXdwOJSB+74FqtOdwJfuo8Wnmtv/BdqdNTtsjcQVmEjWR/hDHsjeyo3zzh6Yk9yivqJVo21MBb+45WN0Q==",
+  "dgSpecHash": "ORcvbg28xEiePdEoagBXL1Mv0vVidJcQ9VJQS8oClrAOglJiIRhllAU8alMhObr4Q4aDHVgRnt5HoQtutr4Ouw==",
   "success": true,
-  "projectFilePath": "C:\\repos\\SIGDA_BackEnd\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj",
+  "projectFilePath": "C:\\repoSIGDA\\SIGDA_AdminBio\\SIGDA.Catalogos\\SIGDA.Catalogos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
