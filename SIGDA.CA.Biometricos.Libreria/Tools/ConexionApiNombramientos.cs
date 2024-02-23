@@ -22,7 +22,7 @@ namespace SIGDA.CA.Biometricos.Libreria.Tools
         {
             NombramientosRh nombramiento = new NombramientosRh();
             nombramiento.Inicio = fechaInicio.ToString("dd/MM/yyyy");
-            nombramiento.Fin = fechaInicio.ToString("dd/MM/yyyy");
+            nombramiento.Fin = fechaFin.ToString("dd/MM/yyyy");
             nombramiento.IdMunicipio = municipio;
             var resultadoNombremientos = new List<NombramientosRh>();
             //var valores = new NombramientosRh { inicio = fechaInicio.ToString("dd/MM/yyyy"), fin = fechaInicio.ToString("dd/MM/yyyy"), idMunicipio = municipio };

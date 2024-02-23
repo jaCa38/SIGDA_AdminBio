@@ -250,6 +250,7 @@
     <Compile Include="Models\FotosResualtado.cs" />
     <Compile Include="Models\ListaBiometriasEmpleado.cs" />
     <Compile Include="Models\ListaTerminalesBiometria.cs" />
+    <Compile Include="Models\ModPrueba.cs" />
     <Compile Include="Models\NombramientosRh.cs" />
     <Compile Include="Models\ObtenerBiometria.cs" />
     <Compile Include="Models\ObtenerBiometriasDb.cs" />

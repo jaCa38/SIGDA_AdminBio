@@ -31,6 +31,7 @@ namespace TestBiometricos
             Console.WriteLine("1.- Descargar Todos los Relojes");
             Console.WriteLine("2.- Descargar Todas Las Fotodos");
             Console.WriteLine("3.- Ajustar Horario");
+            Console.WriteLine("4.- Descargar Todas las Biometrias");
 
             int tareaSeleccion; 
 
@@ -58,9 +59,14 @@ namespace TestBiometricos
                     _=3;
                     AjusteHorarioBiometricos.AjustarHoraTerminales();
                     break;
-            }       
+                    case 4:
+                    _=4;
+                    DescargaTodasLasBiometrias.DescargaBiometriasTerminales();
+                    break; 
 
-          }
+            }
+
+        }
 
 
 

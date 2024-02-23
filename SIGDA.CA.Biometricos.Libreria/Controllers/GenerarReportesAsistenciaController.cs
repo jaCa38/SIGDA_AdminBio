@@ -1,6 +1,7 @@
 ﻿using Azure;
 using Microsoft.Identity.Client;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.Office.Interop.Excel;
 using Newtonsoft.Json;
 using SIGDA.CA.Biometricos.Libreria.Models;
 using SIGDA.CA.Biometricos.Libreria.Services.Interfaces;
@@ -35,16 +36,50 @@ namespace SIGDA.CA.Biometricos.Libreria.Controllers
 
 
 
-        public List<NombramientosRh> GenerarReporteAsistencia(int municipio, DateTime fechaInicio, DateTime fechaFin)
+        public List<ReporteAsistencia> GenerarReporteAsistencia(int municipio, DateTime fechaInicio, DateTime fechaFin)
         {
-            
+            var reporteAsistencia = new List<ReporteAsistencia>();
+           
            var reportePorMunicipo = new List<NombramientosRh>();
-           var reporteSicaPorEmpleado = new List<RegistrosEmpleadoSICA>();
+            var reporteSicaPorEmpleado = new List<RegistrosEmpleadoSICA>();
+           
 
-           reportePorMunicipo = apiNom.ConectarConApiNom(municipio, fechaInicio, fechaFin).Result;
+
+            reportePorMunicipo = apiNom.ConectarConApiNom(municipio, fechaInicio, fechaFin).Result;
+
+            foreach (NombramientosRh nom in reportePorMunicipo)
+            {
+                reporteSicaPorEmpleado = GenerarReporteSICA(nom.IdEmpleado, Convert.ToDateTime(nom.Inicio), Convert.ToDateTime( nom.Fin));
+                
+                if (reporteSicaPorEmpleado.Count() < 0)
+                {
+                    break;
+                }
+                else
+                {
+                    foreach(RegistrosEmpleadoSICA reg in reporteSicaPorEmpleado)
+                    {
+                        reporteAsistencia.Add(new ReporteAsistencia
+                        {
+                            Id = reg.IdEmpleado,
+                            Name = nom.Nombre + nom.Paterno + nom.Materno,
+                            FechaRegistro = reg.Fecha,
+                            HoraEntrada = reg.Entrada,
+                            HoraSalida = reg.Salida,
+                            Observacion = reg.Observaciones,
+                            Inicidencia = reg.Incidencias,
+                            Puesto = nom.Denominacion,
+                            CT = nom.CentroTrabajo,
+                            Municipio = nom.CentroTrabajo
+
+                        });
 
 
-            return reportePorMunicipo;
+                    }
+                }
+            }
+
+            return reporteAsistencia;
          }
 
     

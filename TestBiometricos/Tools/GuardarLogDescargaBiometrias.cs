@@ -14,7 +14,7 @@ namespace TestBiometricos.Tools
 
             try
             {
-                using (StreamWriter writer = new StreamWriter($@"\\192.168.1.12\DescargaRegistrosBiometricos\LogDescargaBiometrias{DateTime.Now.Date}.txt", append: true))
+                using (StreamWriter writer = new StreamWriter("\\\\192.168.1.12\\DescargaRegistrosBiometricos\\LogDescargaBiometrias.txt", append: true))
                 {
                     writer.WriteLine($"{evento}");
                     

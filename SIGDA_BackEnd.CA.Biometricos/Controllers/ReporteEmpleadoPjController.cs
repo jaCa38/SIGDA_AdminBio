@@ -35,7 +35,7 @@ namespace SIGDA_BackEnd.CA.Biometricos.Controllers
 
         [HttpPost]
         [Route("api/ReporteAsistencia")]
-        public List<NombramientosRh> PostReporteAsistencia([FromBody] NombramientosRh nom)
+        public List<ReporteAsistencia> PostReporteAsistencia([FromBody] NombramientosRh nom)
         {
             GenerarReportesAsistenciaService service;
             var fechaInicioNom = Convert.ToDateTime(nom.Inicio);
