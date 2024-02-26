@@ -42,12 +42,12 @@ namespace SIGDA.CA.Biometricos.Libreria.Tools
                     {
                         var recRevoc =  connection.Query<RegistrosEmpleadoSICA>(sql, dpParametros,
                             commandType: CommandType.StoredProcedure, commandTimeout: 28800).ToList();
-                        
-
-                        registrosEmpleados= recRevoc;
+                        connection.Close();
+                        connection.Dispose();
+                        registrosEmpleados = recRevoc;
                         
                         return registrosEmpleados;
-
+                        
                     }
 
                 }
@@ -64,6 +64,41 @@ namespace SIGDA.CA.Biometricos.Libreria.Tools
             }
             
 
+        }
+
+
+        public List<InfoBiometrico> ObtenerTodasLasTerminales()
+        {
+            List<InfoBiometrico> infoConexion = new List<InfoBiometrico>();
+            try
+            {
+                var sql = @"SELECT axs_idBiometrico AS IdTerminal, axs_ip AS IpTerminal, axs_puerto AS PortTerminal, axs_Descripcion AS NombreTerminal  FROM bio_Terminales WHERE axs_idEstatus = 1";
+
+                try
+                {
+                    using (var connection = new MySqlConnection(strConexionMYSQL))
+                    {
+                        var recRevoc = connection.Query<InfoBiometrico>(
+                        sql, commandType: CommandType.Text, commandTimeout: 28800).ToList();
+
+                        infoConexion = recRevoc;
+                    }
+                }
+                catch (MySqlException MySqlEx)
+                {
+                    infoConexion.Add(new InfoBiometrico { ConexionEstatus = false, ErrorMessage = MySqlEx.Message });
+                }
+                catch (Exception ex)
+                {
+                    infoConexion.Add(new InfoBiometrico { ConexionEstatus = false, ErrorMessage = ex.Message });
+                }
+            }
+            catch (Exception ex)
+            {
+                infoConexion.Add(new InfoBiometrico { ConexionEstatus = false, ErrorMessage = ex.Message });
+            }
+
+            return infoConexion;
         }
 
 

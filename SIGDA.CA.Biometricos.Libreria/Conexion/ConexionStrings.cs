@@ -19,5 +19,8 @@ namespace SIGDA.CA.Biometricos.Libreria.Conexion
         public static string IMAGES_STORAGE_FOLDER = "\\\\192.168.1.12\\fotosChecadoresSIGDA\\";
 
         public static string CONEXION_API_NOMBRAMIENTO = @"https://sistemas.poderjudicial-gto.gob.mx/api/progress/empleado/historia/periodos";
+
+        //public static string 
+
     }
 }
